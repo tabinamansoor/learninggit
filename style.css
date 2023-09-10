@@ -1,0 +1,16 @@
+H1{
+    text-align: center;
+    color: lightcoral;
+    font-size: 80px;
+
+
+}
+P{
+    text-align: center;
+    color: black;
+    font-size: 60px;
+    font-family: fantasy;
+}
+*{
+    background-color: wheat;
+}
